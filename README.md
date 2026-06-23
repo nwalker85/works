@@ -92,7 +92,7 @@ A public index of the software, platforms, hardware, and written work I've desig
 - **Frith** — *2026* — macOS/SwiftUI presence-based file-sealing vault (seal files to a physical hardware key). *(private)*
 - **Aesir** — *2026* — macOS/SwiftUI agent-orchestration cockpit (terminal, git/worktree managers). *(parked)*
 - **Njörðr** — *2026* — journey-mapping platform + declarative-UI (event-sourced) proof-of-concept (Flutter). *(private)*
-- **Ultradex** — *2026* — AI networking-relationship assistant (surfaces neglected contacts + outreach). *(private)*
+- **Ultradex** — *2026* — AI networking-relationship assistant (surfaces neglected contacts + outreach). → [github.com/nwalker85/ultradex](https://github.com/nwalker85/ultradex)
 - **cc-monitor** — *2026* — tool to monitor local Claude Code instances (process/memory/token usage); CLI + menubar (MIT). → [github.com/nwalker85/cc-monitor](https://github.com/nwalker85/cc-monitor)
 - **Fulla** — *2026* — agent-driven operating-reports platform (scheduled report agents → docs + kiosk). *(PRD)*
 - **Fenrir** — *2025–2026* — dedicated GPU LLM inference node (local serving + auth). *(private)*
