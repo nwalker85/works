@@ -36,7 +36,7 @@ A public index of the software, platforms, hardware, and written work I've desig
 - **Artimetrics™** — *2025–2026* — "biometrics for AI agents": static + behavioral identity profiles, drift verification. *(private)*
 - **Várar** — *2025–2026* — binding authority/execution contract primitive. *(private)*
 - **Kvasir** — *2025–2026* — identity-onboarding automation CLI (FreeIPA + OIDC + FIDO2). → [github.com/nwalker85/kvasir](https://github.com/nwalker85/kvasir)
-- **Ravenhelm Doctrine / Codex** — *2025–2026* — machine-readable governance-as-code (JSON-Schema policies + OPA/Cedar). *(private)*
+- **Lögberg** *(formerly "Doctrine")* — *2025–2026* — machine-readable governance-as-code framework (JSON-Schema constitutional documents + OPA/Cedar policies). *(private)*
 - **ANP — Agent Network Protocol** — *2026* — cryptographic delegation/identity protocol specification. *(private)*
 - **Langmail** — *2025–2026* — zero-trust agent task-mailbox with a pluggable ledger gate. *(private)*
 - **Agent Accountability Ledger** — *2026* — anchored private ledger (hash-chain → Merkle → public-chain anchoring → verification). *(private)*
