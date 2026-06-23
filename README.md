@@ -11,7 +11,6 @@ A public index of the software, platforms, hardware, and written work I've desig
 ## AI Agent Platform (RavenmaskOS)
 
 - **RavenmaskOS** — *2024–2026* — AI-agent operating platform: orchestration, governance, deployment, full action traceability with human-in-the-loop. *(private)*
-- **Norns** — *2024–2026* — conversational AI agent (LangGraph); multi-channel; runs on a 3-node HA cluster, with an admin UI and a SwiftUI client. *(private)*
 - **Bifrost** — *2024–2026* — MCP tool gateway / execution gateway: tool registry, executor router, channel gateway, contract verification. *(private)*
 - **Freyr** — *2025–2026* — agent runtime & execution control plane (FastAPI); lifecycle, threads, checkpointing, distributed workers, bandit-learning. *(private)*
 - **Forge** — *2025–2026* — agent compilation platform: compiles agent manifests into deployable LangGraph state graphs. *(private)*
@@ -21,7 +20,6 @@ A public index of the software, platforms, hardware, and written work I've desig
 - **Loki** — *2025–2026* — server-driven-UI framework + design system (Flutter/Dart). *(private)*
 - **token-forge** — *2025–2026* — design-token toolchain (YAML → CSS/Tailwind/Dart) + token server. → [token-forge](https://github.com/nwalker85/token-forge) · [token-forge-server](https://github.com/nwalker85/token-forge-server)
 - **Ymir** — *2026* — AI quality platform: test aggregation + agent-quality scoring (task completion, hallucination, faithfulness, latency). *(private)*
-- **PMO Agent** — *2025–2026* — project-management agent (Linear integration, build orchestration, HITL). *(private)*
 
 ## Knowledge Graph & Data
 
@@ -88,9 +86,7 @@ A public index of the software, platforms, hardware, and written work I've desig
 
 ## Apps & Products
 
-- **The Viking** — *2025–2026* — smart-RV product platform (situational awareness + smart-home + voice). *(private)*
 - **Frith** — *2026* — macOS/SwiftUI presence-based file-sealing vault (seal files to a physical hardware key). *(private)*
-- **Aesir** — *2026* — macOS/SwiftUI agent-orchestration cockpit (terminal, git/worktree managers). *(parked)*
 - **Njörðr** — *2026* — journey-mapping platform + declarative-UI (event-sourced) proof-of-concept (Flutter). *(private)*
 - **Ultradex** — *2026* — AI networking-relationship assistant (surfaces neglected contacts + outreach). → [github.com/nwalker85/ultradex](https://github.com/nwalker85/ultradex)
 - **cc-monitor** — *2026* — tool to monitor local Claude Code instances (process/memory/token usage); CLI + menubar (MIT). → [github.com/nwalker85/cc-monitor](https://github.com/nwalker85/cc-monitor)
@@ -100,7 +96,7 @@ A public index of the software, platforms, hardware, and written work I've desig
 ## Developer Tooling
 
 - **dex-mcp** — *2026* — MCP server for the Dex personal CRM. → [github.com/nwalker85/dex-mcp](https://github.com/nwalker85/dex-mcp)
-- **MCPManager / MyMCP** — *2026* — tools to register/launch/monitor local MCP servers; MCP-server scaffold. *(private)*
+- **MCPManager** — *2026* — Streamlit + LangGraph tool to register/launch/monitor local MCP servers. *(private)*
 - **agentfoundry** — *2025–2026* — agent tooling. → [github.com/nwalker85/agentfoundry](https://github.com/nwalker85/agentfoundry)
 
 ## Specifications & Declarative Frameworks
