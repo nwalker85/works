@@ -19,7 +19,7 @@ A public index of the software, platforms, hardware, and written work I've desig
 - **Huginn** *(runtime-state)* — *2025–2026* — cross-channel conversation-state service (single thread across web/voice/chat). *(private)*
 - **Ravenhelm Agent Studio** — *2025–2026* — multi-tenant agentic-systems platform (Domain Intelligence as first app). *(private)*
 - **Loki** — *2025–2026* — server-driven-UI framework + design system (Flutter/Dart). *(private)*
-- **token-forge** — *2025–2026* — design-token toolchain (YAML → CSS/Tailwind/Dart) + token server. → [github.com/nwalker85/token-forge](https://github.com/nwalker85/token-forge)
+- **token-forge** — *2025–2026* — design-token toolchain (YAML → CSS/Tailwind/Dart) + token server. → [token-forge](https://github.com/nwalker85/token-forge) · [token-forge-server](https://github.com/nwalker85/token-forge-server)
 - **Ymir** — *2026* — AI quality platform: test aggregation + agent-quality scoring (task completion, hallucination, faithfulness, latency). *(private)*
 - **PMO Agent** — *2025–2026* — project-management agent (Linear integration, build orchestration, HITL). *(private)*
 
@@ -104,7 +104,7 @@ A public index of the software, platforms, hardware, and written work I've desig
 - **Aesir** — *2026* — macOS/SwiftUI agent-orchestration cockpit (terminal, git/worktree managers). *(parked)*
 - **Njörðr** — *2026* — journey-mapping platform + declarative-UI (event-sourced) proof-of-concept (Flutter). *(private)*
 - **Ultradex** — *2026* — AI networking-relationship assistant (surfaces neglected contacts + outreach). *(private)*
-- **cc-monitor** — *2026* — tool to monitor local Claude Code instances (process/memory/token usage); CLI + menubar (MIT). *(private — pending publish)*
+- **cc-monitor** — *2026* — tool to monitor local Claude Code instances (process/memory/token usage); CLI + menubar (MIT). → [github.com/nwalker85/cc-monitor](https://github.com/nwalker85/cc-monitor)
 - **Fulla** — *2026* — agent-driven operating-reports platform (scheduled report agents → docs + kiosk). *(PRD)*
 - **Fenrir** — *2025–2026* — dedicated GPU LLM inference node (local serving + auth). *(private)*
 
