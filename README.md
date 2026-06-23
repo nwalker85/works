@@ -55,7 +55,6 @@ A public index of the software, platforms, hardware, and written work I've desig
 - **Vidar** — *2025–2026* — AIOps / incident-management (alert ingest, ITIL lifecycle, CMDB auto-discovery). *(private)*
 - **hostname-intel** — *2026* — hostname intelligence service (10+ intel sources → 0–100 risk score). *(private)*
 - **change-mgmt** — *2026* — change-request system of record (RFCs, freeze windows, PIRs) gating tool use/CI. *(private)*
-- **office-scorecard** — *2026* — OKR operating dashboard (exporter → Grafana kiosk). *(private)*
 - **resource-monitor** — *2026* — Ansible-driven fleet observability (exporters + dashboards + alerting). *(private)*
 
 ## Voice & Telephony
@@ -64,7 +63,6 @@ A public index of the software, platforms, hardware, and written work I've desig
 - **Telephony Gateway** — *first commit 2026-01-03* — phone-call service (Programmable-Voice webhooks + media streams; inbound + outbound). *(private)*
 - **Voice→agent streaming bridge** — *2025–2026* — adapter turning my LangGraph agent into a streaming voice backend (token streaming, barge-in, tool-calling), vendor-independent. *(private)*
 - **Jarvis / Alfred** — *2026* — in-vehicle full-duplex voice assistant orchestration. *(private)*
-- **myjarvis** — *created 2025-11-28* — earlier AI agent for local file/tool interactions. *(private)*
 - **isip** — *created 2025-12-04* — macOS SIP automation toolkit + MCP server for testing voice-AI systems (MIT). → [github.com/nwalker85/isip](https://github.com/nwalker85/isip)
 - **io-bakeoff** — *created 2026-04-02* — voice-IO multi-model bake-off / evaluation harness. *(private)*
 - **Multi-Channel Session architecture** — *2025–2026* — design unifying browser, phone, and chat into one continuous agent session. *(design)*
@@ -96,7 +94,6 @@ A public index of the software, platforms, hardware, and written work I've desig
 ## Developer Tooling
 
 - **dex-mcp** — *2026* — MCP server for the Dex personal CRM. → [github.com/nwalker85/dex-mcp](https://github.com/nwalker85/dex-mcp)
-- **MCPManager** — *2026* — Streamlit + LangGraph tool to register/launch/monitor local MCP servers. *(private)*
 - **agentfoundry** — *2025–2026* — agent tooling. → [github.com/nwalker85/agentfoundry](https://github.com/nwalker85/agentfoundry)
 
 ## Specifications & Declarative Frameworks
