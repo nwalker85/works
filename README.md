@@ -86,17 +86,6 @@ A public index of the software, platforms, hardware, and written work I've desig
 - **Sensing subsystem designs** — *2025–2026* — visual / measurement / device / aerial sensing-subsystem architectures. *(design)*
 - **Infrared illuminator hardware** — *2026* — custom IR floodlight (schematic, simulation, enclosure, prototype). *(private)*
 
-## Mobile-Device Analysis *(generic titles by design; private source)*
-
-- **Mobile-device activity dashboard** — *2026* — hosted analysis dashboard over device diagnostic logs (ClickHouse-backed). *(private)*
-- **Device power-log timeline tool** — *2026* — parser/interpreter + timeline UI for device power logs. *(private)*
-- **Device log-corpus & behavioral toolkit** — *2026* — corpus catalog, session parser, event-semantics dictionary, pattern engine. *(private)*
-- **Device messaging-activity capture tool** — *2026* — live-log watcher + capture tooling. *(private)*
-- **Device-log ingestion/analysis pipeline** — *2026* — unified-log ingestion into a columnar store + timeline reconstruction. *(private)*
-- **CoreDevice SDK** — *2026* — generic SDK for Apple CoreDevice/`devicectl` workflows. *(private)*
-- **Audio archive + speaker-ID tool** — *2026* — audio archive with transcription/diarization + cross-recording speaker identity. *(private)*
-- **iOS syslog rules daemon** — *2026* — Go daemon evaluating declarative rules over live device syslog. *(private)*
-
 ## Apps & Products
 
 - **The Viking** — *2025–2026* — smart-RV product platform (situational awareness + smart-home + voice). *(private)*
